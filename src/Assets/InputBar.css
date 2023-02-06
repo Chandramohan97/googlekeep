@@ -1,0 +1,16 @@
+.inputBar input{
+    width: 600px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 15px;
+    text-indent: 10px;
+    background-color: rgb(35, 35, 35);
+}
+
+input:focus{
+    background-color: white;
+    color: black;
+}
+
+button{
+}
