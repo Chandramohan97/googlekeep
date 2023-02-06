@@ -12,10 +12,10 @@ const Header = () => {
             <img src={menu} alt="bar" />
           </li>
 
-          <li>
+          <li style={{ color: "white" }}>
             <img src={logo} alt="logo" /> ToDo List
           </li>
-          <li>
+          <li style={{ color: "white" }}>
             <input type="text" placeholder="Search"></input>
           </li>
         </ul>
